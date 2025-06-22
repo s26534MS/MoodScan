@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+*.pyc
+dane/
+*.log
+*.jpg
+*.jpeg
+*.gif
+datasets/
+kdef_sorted/
+.idea/
+*.iml
+snapshot.jpg
+
